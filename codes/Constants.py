@@ -1,0 +1,5 @@
+ROWS = 6
+COLUMNS = 7
+PLAYER_1 = 1
+PLAYER_2 = 2
+EMPTY = 0
